@@ -6,6 +6,6 @@ public class Nombres {
         String tituloPelicula = "Spider-Man Brand New Day";
         String sistemaOperativo = "Windows11";
         String correoInstitucional = "25030425@itcelaya.edu.mx";
-
+        String hola = "hola";
     }
 }

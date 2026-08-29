@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Inventario {
     static void main() {
         Scanner sc = new Scanner(System.in);
+        int tarimas = 10;
         System.out.println("Nombre del producto: ");
         String producto = sc.nextLine();
 
