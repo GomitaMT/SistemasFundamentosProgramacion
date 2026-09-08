@@ -1,6 +1,6 @@
-package Parcial1;
+package Parcial2;
 
-public class CicloFor {
+public class Ciclofor {
     static void main() {
         String nombre = "Expedition 33";
         System.out.println(nombre.charAt(0));
