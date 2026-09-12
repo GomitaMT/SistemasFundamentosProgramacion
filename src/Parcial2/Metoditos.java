@@ -1,8 +1,7 @@
 package Parcial2;
 
 public class Metoditos {
-    static void main() {
-        int dinero = 10000
+    public static void main(String[] args) {
         mandarMensajeAmor();
         mandarMensajeAmor();
         mandarMensajeAmor();
@@ -12,12 +11,12 @@ public class Metoditos {
         mandarMensajeAmor();
     }
 
-    static void mandarMensajeAmor(String nombreFulana , int dinero) {
-        if (dinero == 0){
-            dinero = 25000;
-        }
+    static void mandarMensajeAmor(){
         System.out.println("Buenos dias mi amor");
-        System.out.println("Te ves sexy el dia de hoy" +dinero+ "el dinero");
-        System.out.println("");
+        System.out.println("Te ves sexy el dia de hoy");
+        System.out.println("te espero en la noche con mucho amor");
+        System.out.println("Tu trais el dinero y yo la diversión");
+        System.out.println("------------------------------------");
+
     }
 }
